@@ -1,0 +1,8 @@
+{
+  "name": "Remix AttendWise - KTU Smart Attendance Tracker",
+  "description": "Smart KTU attendance tracker with 75% threshold alerts, condonation predictor, timetable scheduler, and safe bunk calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
